@@ -1,0 +1,13 @@
+{
+  "name": "tailwind_css_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build": "npx @tailwindcss/cli -i ./style.css -o ./output.css --watch"
+  },
+  "keywords": [],
+  "author": "Ruhit kumar sinha",
+  "license": "ISC",
+  "type": "commonjs"
+}
